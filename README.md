@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently a 3rd year AIML student
+- 🌱 I’m currently learning Java, python, css, html  
+- 👯 I’m looking to collaborate on projects
+- 📫 How to reach me: snehadangare8354@gmail.com
+
 <!--
 **Snehadangare31/Snehadangare31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
